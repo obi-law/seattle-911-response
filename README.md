@@ -4,7 +4,7 @@
 
 [**▶ View the live dashboard on Tableau Public**](https://public.tableau.com/app/profile/obie.w.lawrence/viz/Seattle911CallResponseAnalysis/SPDCallData)
 
-![Seattle 911 Call Response Analysis dashboard](screenshots/dashboard.png)
+![Seattle 911 Call Response Analysis dashboard](screenshots/seattle-911-response-1.png)
 
 ---
 
