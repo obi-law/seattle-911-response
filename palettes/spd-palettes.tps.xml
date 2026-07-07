@@ -1,0 +1,54 @@
+    <color-palette name="Seattle Police Department - Call Data" type="regular">
+      <color>#1F4E8C</color>  <!-- 01  SPD blue (signature) -->
+      <color>#C9A227</color>  <!-- 02  Badge gold -->
+      <color>#2E5D45</color>  <!-- 03  Evergreen -->
+      <color>#A6452F</color>  <!-- 04  Brick red -->
+      <color>#3E97A6</color>  <!-- 05  Pacific teal -->
+      <color>#8A5A2B</color>  <!-- 06  Bronze -->
+      <color>#14243F</color>  <!-- 07  Navy (deep anchor) -->
+      <color>#5B8BB5</color>  <!-- 08  Steel blue -->
+      <color>#4F8A5E</color>  <!-- 09  Forest green -->
+      <color>#CB6A3E</color>  <!-- 10  Burnt orange -->
+      <color>#D9B65A</color>  <!-- 11  Harvest gold -->
+      <color>#1B6B7A</color>  <!-- 12  Deep teal -->
+      <color>#6B4E6B</color>  <!-- 13  Slate plum -->
+      <color>#88B284</color>  <!-- 14  Sage -->
+      <color>#8FB4D6</color>  <!-- 15  Sky blue -->
+      <color>#B07D4A</color>  <!-- 16  Tan -->
+      <color>#98A6B0</color>  <!-- 17  Cool gray -->
+      <color>#7CC0C9</color>  <!-- 18  Aqua -->
+      <color>#4A5660</color>  <!-- 19  Charcoal -->
+      <color>#ECD392</color>  <!-- 20  Pale gold -->
+    </color-palette>
+
+    <color-palette name="Seattle Police Department - Diverging" type="ordered-diverging">
+      <color>#0B1829</color>  <!-- 01  Deepest navy (cool extreme) -->
+      <color>#14243F</color>  <!-- 02  Navy -->
+      <color>#1F4E8C</color>  <!-- 03  SPD blue -->
+      <color>#5B8BB5</color>  <!-- 04  Steel blue -->
+      <color>#8FB4D6</color>  <!-- 05  Sky blue -->
+      <color>#DDD9D0</color>  <!-- 06  Warm neutral (midpoint) -->
+      <color>#ECD392</color>  <!-- 07  Pale gold -->
+      <color>#D9B65A</color>  <!-- 08  Harvest gold -->
+      <color>#C9A227</color>  <!-- 09  Badge gold -->
+      <color>#8A5A2B</color>  <!-- 10  Bronze -->
+      <color>#5C3A18</color>  <!-- 11  Dark espresso (warm extreme) -->
+    </color-palette>
+
+    <color-palette name="Seattle Police Department - Sequential" type="ordered-sequential">
+      <color>#EAF1F8</color>  <!-- 01  Pale mist (low) -->
+      <color>#8FB4D6</color>  <!-- 02  Sky blue -->
+      <color>#5B8BB5</color>  <!-- 03  Steel blue -->
+      <color>#1F4E8C</color>  <!-- 04  SPD blue -->
+      <color>#14243F</color>  <!-- 05  Navy -->
+      <color>#0B1829</color>  <!-- 06  Deepest navy (high) -->
+    </color-palette>
+
+    <color-palette name="Seattle Police Department - Volume" type="ordered-sequential">
+      <color>#0B1829</color>  <!-- 01  Deepest navy (low) -->
+      <color>#143862</color>  <!-- 02  Midnight blue -->
+      <color>#1F4E8C</color>  <!-- 03  SPD blue -->
+      <color>#3A7CC0</color>  <!-- 04  Azure -->
+      <color>#6FB4E6</color>  <!-- 05  Sky cyan -->
+      <color>#B3ECFF</color>  <!-- 06  Bright ice (high) -->
+    </color-palette>
